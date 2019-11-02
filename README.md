@@ -1,1 +1,1 @@
-# Tourist-points-in-Molde
+# Tourist-point-in-Molde
